@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BawazierMurphy
-- 👀 I’m interested in | Full Stack Web Development 
-- 🌱 I’m currently learning | Codeigniter 4
-- 💞️ I’m looking to collaborate on | Frontend Web Dev
-- 📫 How to reach me | Insta(@mssbm)
+- 👀 I’m interested in | Full Stack Web & Mobile App Development
+- 🌱 I’m currently learning | Javascript
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me | Insta(@mssbm03)
 
 <!---
 BawazierMurphy/BawazierMurphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
